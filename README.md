@@ -1,3 +1,5 @@
+NETLIFY LINK TO CHECK EASIER: https://epic-dubinsky-b86806.netlify.com/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
